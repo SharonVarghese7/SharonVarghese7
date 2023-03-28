@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sharon Varghese
 - 👀 I’m interested in Python - django, Data Science, AI & R programming
-- 🌱 I’m currently learning AI
 - 📫 How to reach me sharonvarghese1997@gmail.com
 
 <!---
